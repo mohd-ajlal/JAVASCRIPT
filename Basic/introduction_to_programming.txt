@@ -1,0 +1,13 @@
+Introduction To Programming:- Programming is a way to talk to computers. A language like hindi, English, Urdu etc. can be used to talk 
+                              to a human but for computers we need straight forward instructions.
+
+Programming is a act of constructing a program, a set of presice instruction telling a computer what to do.
+
+JavaScript is a Dynamic Programming Language. 
+It is a client side scripting language  and is used to make web pages interactive.
+It is also used to make web pages more user friendly, fast and easy to use. 
+It is also used to validate user input before it is sent to the server. 
+It is also used to create cookies, to detect browser properties and user agent, to make image rollovers and to create animations. 
+It is also used to create games and 3D graphics. It is also used to create mobile apps. 
+It is also used to create desktop apps. It is also used to create server side scripts. 
+It is also used to create database driven web pages. It is also used to create web apps.

@@ -1,0 +1,10 @@
+Variables: A variable is a container that stores values. This is very similar to the container use to store something in the house.
+
+The value of javascript variables can be cahnged during the execution of the program
+
+
+Rules for changing variables names:
+1. Lettters,digit, underscore and dollar sign($) are the only characters allowed in a variable name.
+2. Must starts with _, $ and a letter.
+3. Javascript reserved words cant be use as a variable name.
+4. Variable names are case sensitive.

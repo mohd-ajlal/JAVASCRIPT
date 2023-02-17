@@ -1,0 +1,5 @@
+Ecmascript: ECMAScript is a standard on which javascript is based. it was created to ensuire that different documents on javascript are
+            actually talking about the same language.
+
+            JavaScript and ECMAScript can almost always be used interchangeably JavaScript is very liberal in what it allows.
+            You can do things in JavaScript that would never work in other languages. This is both a blessing and a curse.  
