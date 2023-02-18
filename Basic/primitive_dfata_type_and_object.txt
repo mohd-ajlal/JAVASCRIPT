@@ -1,0 +1,33 @@
+Primitive Data Types: 
+                    Primitive data types are a set of basic data types in javascript.
+                    
+                    There are 7 primitive data types in javascript:
+                    1. Number
+                    2. null
+                    3. Symbol
+                    4. String
+                    5. Boolean
+                    6. BigInt
+                    7. undefined
+        
+Non-Primitive Data Types: 
+                    Non-primitive data types are a set of data types in javascript that are not primitive.
+                    
+Non-Primitive data types refer to objects and hence they are called reference types. Examples of non-primitive types include Strings, Arrays, Classes, Interface, etc.
+
+Object: 
+                    An object is a collection of properties, and a property is an association between a name (or key) and a value.
+                    In addition to objects that are predefined in the browser, you can define your own objects.
+
+                    Objects are variables too. But objects can contain many values.
+
+                    An object in JavaScript can be created as follows:
+                    example:
+                    const item = {name: "Bike", price: 100000};
+                    where item is the object name, name and price are the properties/keys of the object and "Bike" and 100000 are the values of the properties.
+
+                    Objects are containers for named values called properties or methods.
+
+                    Objects are created using the new keyword.
+
+                    Objects are created using the new keyword.
