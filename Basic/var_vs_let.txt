@@ -1,0 +1,8 @@
+var v/s let in javascript
+
+1. var is globally scoped while let and constant are blocked scoped
+2. var can be updated and re-declared within its scope.
+3. let can be updated but not re-declared.
+4. const can neither be updated nor re-declared
+5. var variables are initialized with undefined while let and const variables are not initialized.
+6. const must be initialized during declaration unlike let and var.
