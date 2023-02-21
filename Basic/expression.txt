@@ -1,0 +1,97 @@
+A fregment of code that produces a value is called a expression. Every value return literally is an expression.
+
+Operators in JavaScript
+1. Arithmetic Operators
+2. Assignment Operators
+3. Comparison Operators
+4. Logical Operators
+5. Bitwise Operators
+6. String Operators
+7. Conditional (Ternary) Operator
+8. Comma Operator
+9. Unary Operators
+10. Relational Operators
+
+Arithmetic Operators
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+5. Remainder (%)
+6. Increment (++)
+7. Decrement (--)
+8. Exponentiation (**)
+
+Assignment Operators
+1. Assignment (=)
+2. Addition Assignment (+=)
+3. Subtraction Assignment (-=)
+4. Multiplication Assignment (*=)
+5. Division Assignment (/=)
+6. Remainder Assignment (%=)
+7. Exponentiation Assignment (**=)
+8. Left Shift Assignment (<<=)
+9. Right Shift Assignment (>>=)
+10. Unsigned Right Shift Assignment (>>>=)
+11. Bitwise AND Assignment (&=)
+12. Bitwise XOR Assignment (^=)
+13. Bitwise OR Assignment (|=)
+
+Comparison Operators
+1. Equal (==)
+2. Not Equal (!=)
+3. Strict Equal (===)
+4. Strict Not Equal (!==)
+5. Greater Than (>)
+6. Greater Than or Equal (>=)
+7. Less Than (<)
+8. Less Than or Equal (<=)
+9. In
+10. Instanceof
+
+Logical Operators
+1. Logical AND (&&)
+2. Logical OR (||)
+3. Logical NOT (!)
+
+Bitwise Operators
+1. Bitwise AND (&)
+2. Bitwise OR (|)
+3. Bitwise XOR (^)
+4. Bitwise NOT (~)
+5. Left Shift (<<)
+6. Right Shift (>>)
+7. Unsigned Right Shift (>>>)
+
+String Operators
+1. Addition (+)
+2. Less Than (<)
+3. Less Than or Equal (<=)
+4. Greater Than (>)
+5. Greater Than or Equal (>=)
+6. Equal (==)
+7. Not Equal (!=)
+8. Strict Equal (===)
+9. Strict Not Equal (!==)
+
+Conditional (Ternary) Operator
+1. condition ? expr1 : expr2
+
+Comma Operator
+1. expr1, expr2
+
+Unary Operators
+1. delete
+2. void
+3. typeof
+4. + (unary plus)
+5. - (unary negation)
+6. ! (logical not)
+7. ~ (bitwise not)
+8. ++ (increment)
+9. -- (decrement)
+10. await
+
+Relational Operators
+1. in
+2. instanceof
