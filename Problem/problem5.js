@@ -7,6 +7,5 @@ const dict= {
     bombastic: "using language that is intended to impress",
     bombshell: "a sudden and unexpected piece of news",
 }
-
 console.log(dict.nuke)
 console.log(dict["bomb"])
