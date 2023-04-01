@@ -27,7 +27,7 @@ const c = "alex"; //we can't change the value of constant
 console.log(c);
 
 // nn bb ss u - primitive in js
-// object - inprimitive 
+// object - non primitive 
 
 // n = number
 // n = null
