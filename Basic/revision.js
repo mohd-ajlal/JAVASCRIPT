@@ -47,3 +47,11 @@ const ob = {
 
 console.log(ob)
 console.log(ob["ajlal"])
+
+
+let x = 5;
+let y = 5;
+console.log(x == y);
+console.log(x === y);
+console.log("Is both X and Y are equal? "+ x == y); // + is used
+console.log("Is both X and Y are equal? ", x == y);

@@ -13,3 +13,4 @@ console.log(typeof a,"\n", typeof b,"\n", typeof c, "\n",typeof d,"\n", typeof e
 
 
 // let g // undefined
+
