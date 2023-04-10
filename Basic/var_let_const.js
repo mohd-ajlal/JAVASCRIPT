@@ -24,3 +24,8 @@ let b2 = "ajlal"
 console.log(b2)
 
 // we can't use let and var with same name
+
+
+// var => function scope
+// let => block scope
+// const => block scope

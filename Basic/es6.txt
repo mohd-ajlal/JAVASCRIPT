@@ -1,0 +1,10 @@
+ECMAScript 2015/ES6
+
+Let and const
+Template strings
+Default Arguments
+Rest Operator
+Spread Operator
+Destructuring
+Arrow Functions
+Object Properties
