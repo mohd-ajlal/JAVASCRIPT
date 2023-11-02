@@ -77,3 +77,37 @@ console.log(array4);
 
 // Array.prototype.sort()
 // Sorts the elements of an array in place and returns the array. The sort is not necessarily stable. The default sort order is according to string Unicode code points.
+
+// push
+
+let array5 = [1, 2, 3, 4, 5];
+console.log(array5.push(6));
+console.log(array5);
+
+// pop
+
+console.log(array5.pop());
+console.log(array5);
+
+// shift
+
+console.log(array5.shift());
+console.log(array5);
+
+// unshift
+
+console.log(array5.unshift(1));
+console.log(array5);
+
+// slice and splice
+
+// slice
+
+console.log(array5.slice(1, 3));
+console.log(array5);
+
+// splice
+
+console.log(array5.splice(1, 3, 2, 3, 4));
+console.log(array5);
+
